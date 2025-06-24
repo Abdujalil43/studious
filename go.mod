@@ -2,4 +2,13 @@ module example/hello
 
 go 1.23.0
 
-require gopkg.in/telebot.v4 v4.0.0-beta.4 // indirect
+require (
+	github.com/ebitengine/gomobile v0.0.0-20240911145611-4856209ac325 // indirect
+	github.com/ebitengine/hideconsole v1.0.0 // indirect
+	github.com/ebitengine/purego v0.8.0 // indirect
+	github.com/hajimehoshi/ebiten/v2 v2.8.8 // indirect
+	github.com/jezek/xgb v1.1.1 // indirect
+	golang.org/x/sync v0.8.0 // indirect
+	golang.org/x/sys v0.25.0 // indirect
+	gopkg.in/telebot.v4 v4.0.0-beta.4 // indirect
+)
